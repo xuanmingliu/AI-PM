@@ -76,7 +76,7 @@ nano .env
 ```bash
 # AI模型API密钥
 OPENAI_API_KEY=your_openai_api_key
-CLAUDE_API_KEY="sk-ant-oat01-d64c7a572221d1206bb704d279e6fce595e880b60316fa591d81b0ab47aa1e4e"
+CLAUDE_API_KEY=your_claude_api_key
 DEEPSEEK_API_KEY=your_deepseek_api_key
 QWEN_API_KEY=your_qwen_api_key
 
