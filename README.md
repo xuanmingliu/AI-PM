@@ -121,17 +121,3 @@ async def main():
 asyncio.run(main())
 "
 ```
-
-#### 方式三：评估模式
-
-```bash
-python evaluation_framework.py
-```
-
-
-- 技术支持: [Issues Page]
-- 邮件联系: [project-email]
-
----
-
-**🚀 开始使用AI-Product Manager，体验自主科学创新的强大能力！**
